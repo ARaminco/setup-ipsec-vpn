@@ -16,7 +16,7 @@ Add a new VPN user or update an existing VPN user with a new password.
 
 ```bash
 # Download the script
-wget -O add_vpn_user.sh https://raw.githubusercontent.com/hwdsl2/setup-ipsec-vpn/master/extras/add_vpn_user.sh
+wget -O add_vpn_user.sh https://raw.githubusercontent.com/ARaminco/setup-ipsec-vpn/master/extras/add_vpn_user.sh
 ```
 
 ```bash
